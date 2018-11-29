@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bd793e3e32ed6db834b3f6f9a8dc1ea3.js"
+  "/bin-multi/precache-manifest.ab864f52bdd54df2ea18861d6008ec1b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bin-multi"});
